@@ -12,7 +12,7 @@ function App() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"Análise dos fatores contribuintes na proliferação de mosquito Aedes aegypti com uso de inteligência artificial Alunas: Bianca de Azevêdo Ribas, Cristiane de Andrade Coutinho e Iasmim Rodrigues Melo Orientador: José Matheus Lima Gomes da Silva Centro de Ensino Médio Integrado a Educação Profissional do Gama - CEMI."}
+        videoDescription={"Vídeo para a Feira Brasileira Jovens Cientistas Análise dos fatores contribuintes na proliferação de mosquito Aedes aegypti com uso de inteligência artificial, Alunas: Bianca de Azevêdo Ribas, Cristiane de Andrade Coutinho e Iasmim Rodrigues Melo, Orientador: José Matheus Lima Gomes da Silva, Centro de Ensino Médio Integrado a Educação Profissional do Gama - CEMI."}
       />
       <Carousel
         ignoreFirstVideo
