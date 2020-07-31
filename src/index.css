@@ -22,4 +22,12 @@ body {
 
 a {
   color: inherit;
-} 
+}
+
+
+.text--red {
+  color: #ff3859;
+}
+. {
+  color: #FF0000;
+}

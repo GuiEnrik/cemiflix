@@ -1,83 +1,99 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
-      "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
-      },
-      "videos": [
-        {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
-        }       
-      ]
-    },
-    {
-      "titulo": "Back End",
-      "cor": "#00C86F",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
-      "videos": [
-        {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
-        }
-      ]
-    },
-    {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Projetos",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "IA, IoT, Apps...",
+        "url": "https://cemigama.org.br"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Análise da proliferação do Aedes aegypti com uso de I.A.",
+          "url": "https://www.youtube.com/watch?v=MzUe4pqS4GE"
+        },
+        {
+          "titulo": "Mostra de Foquetes",
+          "url": "https://www.youtube.com/watch?v=hiCeGCNp5-w"
+        },
+        {
+          "titulo": "Iniciação científica (projeto kairós)",
+          "url": "https://www.youtube.com/watch?v=cFrQqWQEqv8"
+        },
+        {
+          "titulo": "Exposição de Ciências e Tecnologia do CEMI - GAMA",
+          "url": "https://www.youtube.com/watch?v=C7xEGttohUc"
+        }        
+      ]
+    },
+    {
+      "titulo": "Raridades",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Videos Antigos",
+        "url": "https://cemigama.org.br"
+      },
+      "videos": [
+        {
+          "titulo": "Conheça a escola pública modelo do DF - SBT",
+          "url": "https://www.youtube.com/watch?v=iVy0AEhppEg"
+        },
+        {
+          "titulo": "Cemi do Gama é referência em ensino público no DF",
+          "url": "https://www.youtube.com/watch?v=s5dCtfmrpMs"
+        },
+        {
+          "titulo": "Doação de computadores para o Centro de Ensino Médio Integrado à Educação Profissional -- Cemi",
+          "url": "https://www.youtube.com/watch?v=r9GI9OrNMV0"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Na TV",
+      "link": "https://cemigama.org.br",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Cemi na mídia",
+        "url": "https://cemigama.org.br"
+      },
+      "videos": [
+        {
+          "titulo": "Alunos do CEMI Gama são aprovados no PAS E ENEM",
+          "url": "https://www.youtube.com/watch?v=9o_J1YpqwJY"
+        },
+        {
+          "titulo": "CEMI EM AÇÃO",
+          "url": "https://www.youtube.com/watch?v=gbdCwDkl8FI"
+        },
+        {
+          "titulo": "TV Sinpro - Projeto - Curtas Africanidades CEMI do GAMA",
+          "url": "https://www.youtube.com/watch?v=wW2ytXMzq98"
+        }
+      ]
+    },
+    {
+      "titulo": "Outros",
       "cor": "orange",
-      "videos": [
-        {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
-        }
-      ]
-    },
-    {
-      "titulo": "Games",
-      "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Outros vídeos",
+        "url": "https://cemigama.org.br"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
-        }
-      ]
-    },
-    {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
-      "videos": [
+          "titulo": "Apresentação Projetos CEMI",
+          "url": "https://www.youtube.com/watch?v=R3hqzeV4Tbc"
+        },
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Festival de Curtas",
+          "url": "https://www.youtube.com/watch?v=mAxgaeRuIW4"
+        },
+        {
+          "titulo": "Trabalho de inglês - videoclipe This Is me - CEMI GAMA",
+          "url": "https://www.youtube.com/watch?v=q1-mVshScwA"
+        },
+        {
+          "titulo": "Trabalho de inglês - videoclipe Wach me - CEMI GAMA",
+          "url": "https://www.youtube.com/watch?v=6earexDEf2k"
         }
       ]
     }

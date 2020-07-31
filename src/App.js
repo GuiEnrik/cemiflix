@@ -12,31 +12,20 @@ function App() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"O que é front End? Trabalhando na área."}
+        videoDescription={"Análise dos fatores contribuintes na proliferação de mosquito Aedes aegypti com uso de inteligência artificial Alunas: Bianca de Azevêdo Ribas, Cristiane de Andrade Coutinho e Iasmim Rodrigues Melo Orientador: José Matheus Lima Gomes da Silva Centro de Ensino Médio Integrado a Educação Profissional do Gama - CEMI."}
       />
       <Carousel
         ignoreFirstVideo
         category={dadosIniciais.categorias[0]}
       />
       <Carousel
-        ignoreFirstVideo
         category={dadosIniciais.categorias[1]}
       />
       <Carousel
-        ignoreFirstVideo
         category={dadosIniciais.categorias[2]}
       />
       <Carousel
-        ignoreFirstVideo
         category={dadosIniciais.categorias[3]}
-      />
-      <Carousel
-        ignoreFirstVideo
-        category={dadosIniciais.categorias[4]}
-      />
-      <Carousel
-        ignoreFirstVideo
-        category={dadosIniciais.categorias[5]}
       />
       <Footer />
     </div>
