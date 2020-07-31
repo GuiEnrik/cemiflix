@@ -14,7 +14,7 @@ function Footer() {
           Imersão React da Alura 
         </a>
         {' '}
-        com <span class="text--red">❤</span> no CEMI by
+        com <span className="text--red">❤</span> no CEMI by
         {' '}
         <a href="https://www.instagram.com/guienrik_s/">
         GuiEnrik
