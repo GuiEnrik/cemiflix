@@ -28,6 +28,9 @@ a {
 .text--red {
   color: #ff3859;
 }
-. {
-  color: #FF0000;
+
+#root{
+  min-height: calc(100vh - var(--bodyPaddingTop));
+  display: flex;
+  flex-direction: column;
 }
