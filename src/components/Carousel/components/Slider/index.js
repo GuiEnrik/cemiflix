@@ -47,8 +47,7 @@ const Slider = ({ children }) => (
       centerMode: false,
       variableWidth: true,
       adaptiveHeight: true,
-      focusOnSelect: true,
-      autoplay: true
+      focusOnSelect: true
     }}
     >
       {children}
